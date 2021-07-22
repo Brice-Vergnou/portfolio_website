@@ -20,7 +20,7 @@ h2{
   font-size: 2.5em;
   color: #9CE3CF;
   padding-bottom: 10%;
-  margin-bottom: -5%;
+  margin-bottom: -4%;
 }
 h3{
   color: #9CE3CF;
@@ -45,7 +45,9 @@ h3{
 	box-shadow: 0 7px 7px -7px #574B9B inset;
 }
 
-
+.abilities{
+  margin-top: 1%;
+}
 #abilities ul > li { min-height: 30px; padding: 3px 0px; }
 #abilities ul > li:hover { background: #F2F2F2; }
 #abilities ul > li .ability-title { display: inline-block; width: 60%; }
