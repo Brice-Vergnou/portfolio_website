@@ -1,9 +1,11 @@
+
 /*
-#F7F4EA
-#9CE3CF
-#6A7FF5
-#574B9B
+F7F4EA
+9CE3CF
+6A7FF5
+574B9B
 */
+
 html, body {
   margin:0;
   height: 100%;
@@ -25,7 +27,13 @@ h2{
 	position: absolute;
 	top:30vh;
 	bottom: 30vh;
-	left: 30vw;
-	right: 30vw;
+	left: 20vw;
+	right: 20vw;
 	margin: auto;
+}
+.title{
+  font-size: 5em;
+}
+.subtitle{
+  font-size: 2em;
 }
