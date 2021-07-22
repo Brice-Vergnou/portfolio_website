@@ -1,6 +1,31 @@
+/*
+#F7F4EA
+#9CE3CF
+#6A7FF5
+#574B9B
+*/
+html, body {
+  margin:0;
+  height: 100%;
+}
 body{
   font-family: 'Open Sans', sans-serif;
+  background-color: #F7F4EA;
 }
 h2{
   font-family: 'Roboto', sans-serif;
+}
+.container{
+  margin: 0;
+  text-align: center;
+  height:100%;
+  line-height: 100px;
+}
+.header {
+	position: absolute;
+	top:30vh;
+	bottom: 30vh;
+	left: 30vw;
+	right: 30vw;
+	margin: auto;
 }
