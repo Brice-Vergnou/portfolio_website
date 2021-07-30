@@ -4687,3 +4687,7 @@ input, select, textarea {
 		}
 
 	}
+
+img{
+	vertical-align: middle;
+}
