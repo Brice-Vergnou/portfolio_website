@@ -313,3 +313,19 @@ var TxtType = function(el, toRotate, period) {
         css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
         document.body.appendChild(css);
     };
+
+
+		function search_post() {
+		    let input = document.getElementById('searchbar').value
+		    input=input.toLowerCase();
+		    let x = document.getElementsByClassName('article_post');
+
+		    for (i = 0; i < x.length; i++) {
+		        if (!x[i].innerHTML.toLowerCase().includes(input)) {
+		            x[i].style.display="none";
+		        }
+		        else {
+		            x[i].style.display="list-item";
+		        }
+		    }
+		}
