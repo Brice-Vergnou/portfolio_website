@@ -10970,13 +10970,13 @@ body {
   color: #fff;
 }
 
-.social-share-link.facebook:hover {
-  background: #3b5999;
+.social-share-link.github:hover {
+  background: #0d1117;
   color: #fff;
 }
 
-.social-share-link.facebook:hover i {
-  color: #3b5999;
+.social-share-link.github:hover i {
+  color: #0d1117;
 }
 
 .social-share-link.twitter:hover {
@@ -11041,7 +11041,7 @@ strong {
 * ===================================================
 */
 /*
-   Text utils 
+   Text utils
    ------------------------
 */
 .text-uppercase {
@@ -11079,7 +11079,7 @@ strong {
 }
 
 /*
-    Rounded corners - lg, sm 
+    Rounded corners - lg, sm
    ------------------------
 */
 .rounded-lg {
@@ -11133,7 +11133,7 @@ strong {
 }
 
 /*
-    Opacity helpers - .opacity-[1-9]   
+    Opacity helpers - .opacity-[1-9]
     ------------------------
 */
 .opacity-1 {
@@ -11177,7 +11177,7 @@ strong {
 }
 
 /*
-    Z-index helpers - .z-index-[10-50]   
+    Z-index helpers - .z-index-[10-50]
     ------------------------
 */
 .z-index-10 {
