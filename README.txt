@@ -1,32 +1,71 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+################################################################################################
+
+Readme for Minimal | Bootstrap portfolio template by Bootstrapious 
+ - https://bootstraptemple.com
+
+################################################################################################
+
+Hi,
+
+thank you for downloading. Have fun and tell your friends about us ;)
+
+Ondrej, Bootstrapious
+
+---------------------
+ CSS
+---------------------
+
+The theme stylesheet is css/style.default.css. If you want to make any changes, 
+you can do it here or better to override it in custom.css so you can update the original theme stylesheet if an updated is released. 
+Changing to another colour variant, is just a matter of replacing css/style.default.css with css/style.pink.css in index.html.
+
+---------------------
+ JavaScript
+---------------------
+
+Apart from the Bootstrap JS components, the majority of JS is located in /js/front.js. 
+
+---------------------
+ CREDITS
+---------------------
+
+- Botstrap - http://getbootstrap.com
+- Font Awesome - http://fontawesome.io/
+- more in credits.txt.
+
+---------------------
+Changelog
+---------------------
+
+---------------------------------
+Version 2.0.0 - 2021/11/18
+---------------------------------
+
+- updated: Bootstrap to 5.1.3
+- Dropped jQuery in favor of Vanilla Javascript
+- Replaced lightbox2 with gLightbox
+- Replaced jQuery.Cookie plugin with js.Cookie plugin
+- Changed SCSS files structure
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---------------------
+ LICENSE CONDITIONS
+---------------------
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to our partner and us.
 
-(* = not included)
+If you would prefer removing the backlink from the theme footer, please purchase the attribution-free license at the theme page at https://bootstrapious.com/attribution-free-license.
 
-AJ
-aj@lkn.io | @ajlkn
+However, you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g., selling it on a marketplace).
 
+Also, as a bonus for license owners, I can provide you the SASS files for even easier template customization. Drop me a line at hello@bootstrapious.com after purchasing the license.
 
-Credits:
+Thank you for understanding and respecting the license conditions.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+If more info needed, please contact me at hello@bootstrapious.com.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---------------------
+ GET IN TOUCH ;)
+---------------------
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+https://twitter.com/bootstrapious | https://www.facebook.com/bootstrapious | hello@bootstrapious.com

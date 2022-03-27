@@ -1,0 +1,20 @@
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 5    -    https://getbootstrap.com
+
+    - Font Awesome   -    https://fontawesome.com
+
+    - Orion Icons    -    https://orioniconlibrary.com/
+
+    - Masonry Grid   -    https://dribbble.com/juliahanke
+
+    - gLightbox2     -    https://biati-digital.github.io/glightbox/
+
+
+------------------------------------------
+ IMAGES
+------------------------------------------
+
+    - Dribbble shots -    https://dribbble.com/juliahanke
